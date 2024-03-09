@@ -3,4 +3,5 @@ Avaliação Processual-1 (1) (TypeScript - Requisitos, Instalação e Compilaç�
 
 
 
-![Captura de Tela (634)](https://github.com/estevaosilva7/Avalia-o-Processual-1-1-TypeScript---Requisitos-Instala-o-e-Compila-o-/assets/113836244/416e344a-ed3d-4286-8e33-99674feba2cc)
+
+![Captura de Tela (636)](https://github.com/estevaosilva7/Avalia-o-Processual-1-1-TypeScript---Requisitos-Instala-o-e-Compila-o-/assets/113836244/07460766-8c20-493d-beb0-cf47c2066453)
